@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaDeVotacion
 {
-    public partial class frmInicioSesion : Form
+    public partial class frmConteoDeVotos : Form
     {
-        public frmInicioSesion()
+        public frmConteoDeVotos()
         {
             InitializeComponent();
         }
